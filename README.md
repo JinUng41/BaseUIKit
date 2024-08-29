@@ -56,7 +56,7 @@ func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath:
 - `setupDelegate`
 - `setupBinding`
 
-#### BaseView
+#### BaseView, BaseCollectionViewCell, BaseCollectionReusableView, BaseTableViewCell
 - `setupView`
 - `setupConstraints`
 - `setupAction`
